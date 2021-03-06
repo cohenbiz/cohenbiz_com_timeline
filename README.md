@@ -1,2 +1,2 @@
-# cohenbiz_com_timeline
-My resume with a main central timeline CSS/JS (Maybe Bootstrap)
+# Timeliner
+Create your history and storytell you life or project
